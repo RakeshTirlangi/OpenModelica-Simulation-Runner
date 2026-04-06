@@ -187,7 +187,3 @@ pip install -r requirements.txt
 * Input values must satisfy the condition: 0 ≤ start time < stop time < 5
 
 ---
-
-## License
-
-This project is licensed under the terms specified in the LICENSE file.
