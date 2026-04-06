@@ -2,6 +2,16 @@
 
 # OpenModelica Simulator (PyQt6 Desktop Application)
 
+<p align="center">
+  <img src="assets/openmodelica-simulator-demo.gif" width="800">
+</p>
+
+<p align="center">
+  <a href="assets/openmodelica-simulator-demo.mp4">
+    View Full Demonstration Video (MP4)
+  </a>
+</p>
+
 ![Simulator Home](assets/simulator-root.png)
 
 ## Overview
