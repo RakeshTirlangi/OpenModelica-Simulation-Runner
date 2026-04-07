@@ -14,6 +14,18 @@
 
 ![Simulator Home](assets/simulator-root.png)
 
+## Workflow Overview
+
+<p align="center">
+  <img src="assets/steps/steps.png" width="800">
+</p>
+
+This project follows two main steps:
+
+1. Generate the simulation executable using OpenModelica  
+2. Run the executable through a PyQt6-based desktop application with user-defined parameters  
+
+
 ## Overview
 
 This project is a desktop application built using Python and PyQt6 to run simulation executables generated from OpenModelica. It provides a simple interface for selecting an executable, specifying simulation parameters, and executing the model.
